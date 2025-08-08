@@ -5,7 +5,8 @@ Este projeto analisa dados públicos do Airbnb no Rio de Janeiro com foco em ent
 ## 📌 Objetivo
 Investigar os seguintes pontos:
 - Quais bairros têm o maior e menor preço por noite?
-    
+    - Top 10 maiores valores: ![alt text](images/graphics/maior_preco.png)
+    - Top 10 menores valores: ![alt text](images/graphics/menor_preco.png)
 - Qual o impacto da avaliação e número de acomodações no preço?
 - Quais os tipos de imóveis mais comuns?
-    casa/apartamento inteiro
+    casa/apartamento inteiro: ![alt text](images/graphics/tipo_imovel.png)
